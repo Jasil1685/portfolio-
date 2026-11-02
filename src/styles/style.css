@@ -30,7 +30,7 @@ header {
   align-items: center;
 }
 
-/* .logo {
+.logo {
   color: white;
   font-size: 25px;
   font-weight: bold;
@@ -39,7 +39,7 @@ header {
 
 .logo span, .hero h1 span {
   color: #38bdf8;
-} */
+}
 
 .nav-links {
   display: flex;
@@ -55,7 +55,7 @@ header {
 .nav-links a:hover, .social-links a:hover {
   color: #38bdf8;
 }
-/* 
+
 .menu-btn {
   display: none;
   background: none;
@@ -63,7 +63,7 @@ header {
   border: none;
   font-size: 25px;
   cursor: pointer;
-} */
+}
 
 .hero {
   min-height: 80vh;

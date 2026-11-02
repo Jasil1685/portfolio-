@@ -52,14 +52,14 @@ function Navbar() {
       <nav className="navbar">
         {/* <Link to="/" className="logo" onClick={closeMenu}>
           MOHAMMED JASIL<span></span>
-        </Link>
+        </Link> */}
 
         <button
           className="menu-btn"
           onClick={() => setMenuOpen(!menuOpen)}
         >
           {menuOpen ? '✕' : '☰'}
-        </button> */}
+        </button>
 
         <ul className={`nav-links ${menuOpen ? 'active' : ''}`}>
           <li><Link to="/" onClick={closeMenu}>Home</Link></li>
