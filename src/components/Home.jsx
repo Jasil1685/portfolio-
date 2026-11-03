@@ -43,7 +43,7 @@ function Home() {
         </div>
       </div>
       <div className='hero-image'>
-        <img src="PASSPORT-SIZE-PHOTO.png" alt="photo" />
+        <img src="PASSPORT SIZE PHOTO.png" alt="photo" />
       </div>
     </section>
     
